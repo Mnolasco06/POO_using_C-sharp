@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxno\\source\\repos\\Smartphone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D926928-9DAD-453F-9894-7E4BA475C79D}|Smartphone.csproj|c:\\users\\maxno\\source\\repos\\smartphone\\iphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D926928-9DAD-453F-9894-7E4BA475C79D}|Smartphone.csproj|solutionrelative:iphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D926928-9DAD-453F-9894-7E4BA475C79D}|Smartphone.csproj|c:\\users\\maxno\\source\\repos\\smartphone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D926928-9DAD-453F-9894-7E4BA475C79D}|Smartphone.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D926928-9DAD-453F-9894-7E4BA475C79D}|Smartphone.csproj|c:\\users\\maxno\\source\\repos\\smartphone\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D926928-9DAD-453F-9894-7E4BA475C79D}|Smartphone.csproj|solutionrelative:smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D926928-9DAD-453F-9894-7E4BA475C79D}|Smartphone.csproj|c:\\users\\maxno\\source\\repos\\smartphone\\nokia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D926928-9DAD-453F-9894-7E4BA475C79D}|Smartphone.csproj|solutionrelative:nokia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Iphone.cs",
+              "DocumentMoniker": "C:\\Users\\maxno\\source\\repos\\Smartphone\\Iphone.cs",
+              "RelativeDocumentMoniker": "Iphone.cs",
+              "ToolTip": "C:\\Users\\maxno\\source\\repos\\Smartphone\\Iphone.cs",
+              "RelativeToolTip": "Iphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:20:28.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nokia.cs",
+              "DocumentMoniker": "C:\\Users\\maxno\\source\\repos\\Smartphone\\Nokia.cs",
+              "RelativeDocumentMoniker": "Nokia.cs",
+              "ToolTip": "C:\\Users\\maxno\\source\\repos\\Smartphone\\Nokia.cs",
+              "RelativeToolTip": "Nokia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:57:27.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\Users\\maxno\\source\\repos\\Smartphone\\Smartphone.cs",
+              "RelativeDocumentMoniker": "Smartphone.cs",
+              "ToolTip": "C:\\Users\\maxno\\source\\repos\\Smartphone\\Smartphone.cs",
+              "RelativeToolTip": "Smartphone.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:48:57.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxno\\source\\repos\\Smartphone\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maxno\\source\\repos\\Smartphone\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:49:32.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

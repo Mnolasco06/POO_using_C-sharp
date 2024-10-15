@@ -1,0 +1,7 @@
+C:\Users\maxno\source\repos\Smartphone\obj\Debug\Smartphone.csproj.AssemblyReference.cache
+C:\Users\maxno\source\repos\Smartphone\obj\Debug\Smartphone.csproj.CoreCompileInputs.cache
+C:\Users\maxno\source\repos\Smartphone\bin\Debug\Smartphone.exe.config
+C:\Users\maxno\source\repos\Smartphone\bin\Debug\Smartphone.exe
+C:\Users\maxno\source\repos\Smartphone\bin\Debug\Smartphone.pdb
+C:\Users\maxno\source\repos\Smartphone\obj\Debug\Smartphone.exe
+C:\Users\maxno\source\repos\Smartphone\obj\Debug\Smartphone.pdb
